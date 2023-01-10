@@ -1,15 +1,26 @@
 ### Hi there 👋 Ángeles here!
-    International Business Administrator | Software Developer 
+
+    Software Developer | International Business Administrator
     
     I love to learn new things and reinvent myself, now I am learning by my own new Programming Languages 
     and improving my skills.
     
-    Contact me at:
+    - 🌱 I’m currently learning C and French
+    - 🤩 I love meditation, music and movies!
     
+    
+    Contact me at 📫:
+   
+   - 📧 angelestrv94@gmail.com
    - [LinkedIn](https://www.linkedin.com/in/mariadelosangelestruquevivas/)
    - [Instagram](https://www.instagram.com/angeles_truque/)
    
-    
+   
+   
+   
+   
+   
+   
     
     
 
@@ -19,7 +30,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
