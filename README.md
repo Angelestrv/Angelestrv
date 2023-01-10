@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Ángeles here!
+    International Business Administrator | Software Developer 
+    
 
 <!--
 **Angelestrv/Angelestrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
