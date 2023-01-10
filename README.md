@@ -2,11 +2,13 @@
     International Business Administrator | Software Developer 
     
     I love to learn new things and reinvent myself, now I am learning by my own new Programming Languages 
-    and improving my skills. 
+    and improving my skills.
     
     Contact me at:
     
-    [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariadelosangelestruquevivas/)](https://www.linkedin.com/in/mariadelosangelestruquevivas/)
+   - [LinkedIn](https://www.linkedin.com/in/mariadelosangelestruquevivas/)
+   - [Instagram](https://www.instagram.com/angeles_truque/)
+   
     
     
     
