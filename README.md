@@ -5,7 +5,7 @@
     I love to learn new things and reinvent myself, now I am learning by my own new Programming Languages 
     and improving my skills.
     
-    - 🌱 I’m currently learning C and French
+    - 🌱 I’m currently learning C, C++ and French
     - 🤩 I love meditation, music and movies!
     
     
